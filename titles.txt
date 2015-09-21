@@ -1,0 +1,400 @@
+url	-> http://theiowarepublican.com/2015/paul-blasts-trump-and-bush-on-iowa-state-visit/
+title	-> Paul Blasts Trump and Bush on <b>Iowa</b> State <b>Visit</b>
+content	-> 
+
+url	-> http://www.nytimes.com/2015/09/07/us/politics/visiting-99-counties-in-iowa-doesnt-get-candidates-as-far-as-it-used-to.html
+title	-> <b>Visiting</b> 99 Counties in <b>Iowa</b> Doesn't Get Candidates as Far as It <b>...</b>
+content	-> 
+
+url	-> http://triblive.com/politics/politicalheadlines/9122233-74/michigan-iowa-republican
+title	-> Walker cancels Michigan appearances in favor of <b>Iowa visit</b>
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/elections/presidential/caucus/2015/09/08/donald-trump-iowa-iowa-state-football-cyhawk/71903974/
+title	-> Trump, Walker, Paul, Rubio to attend GOP Cy-Hawk tailgate
+content	-> 
+
+url	-> http://www.nytimes.com/2015/09/13/us/politics/donald-trump-gets-rock-star-greeting-in-iowa.html
+title	-> Donald Trump Gets Rock Star Greeting in <b>Iowa</b>
+content	-> 
+
+url	-> http://www.nbcnews.com/politics/2016-election/rick-santorum-first-2016-hopeful-visit-99-iowa-counties-n420166
+title	-> Rick Santorum is First 2016 Hopeful to <b>Visit</b> All 99 <b>Iowa</b> Counties
+content	-> 
+
+url	-> http://whotv.com/2015/09/15/donald-trumps-visit-to-isu-saturday-draws-protesters-loud-confrontation-from-supporters/
+title	-> Donald Trump's <b>Visit</b> to ISU Saturday Draws Protesters <b>...</b>
+content	-> 
+
+url	-> http://www.reuters.com/article/2015/09/20/us-usa-election-republicans-idUSKCN0RK0ND20150920
+title	-> <b>Republican</b> candidate Carson says Muslims unfit to be US president
+content	-> 
+
+url	-> http://www.chicagotribune.com/news/nationworld/politics/ct-donald-trump-homecoming-muslim-speech-20150920-story.html
+title	-> Donald Trump to teens at <b>Iowa</b> homecoming: Do 'what you love'
+content	-> 
+
+url	-> https://today.yougov.com/news/2015/09/13/bernie-sanders-donald-trump-cbs-battleground-poll/
+title	-> Sanders up big in New Hampshire and <b>Iowa</b>; Carson trails Trump
+content	-> 
+
+url	-> http://www.chron.com/news/politics/article/Clinton-back-in-Iowa-promises-to-take-on-6488675.php
+title	-> Clinton back in <b>Iowa</b>, promises to take on <b>Republicans</b>
+content	-> 
+
+url	-> http://www.cnn.com/2015/08/31/politics/poll-donald-trump-ben-carson-tied-iowa-monmouth/
+title	-> Ben Carson ties Donald Trump in new <b>Iowa</b> poll
+content	-> 
+
+url	-> http://www.kcci.com/news/republican-frontrunner-speaks-at-high-schools-homecoming/35376300
+title	-> <b>Republican</b> front-runner speaks at high school's homecoming
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/elections/presidential/caucus/2015/09/18/rubio-is-making-a-full-commitment-to-iowa-aides-say/72413334/
+title	-> Marco Rubio making 'full commitment to <b>Iowa</b>,' aide says
+content	-> 
+
+url	-> http://www.nytimes.com/2015/09/18/us/after-debate-republicans-try-to-alter-perceptions-of-their-performance.html
+title	-> After Debate, <b>Republicans</b> Try to Alter Perceptions of Their <b>...</b>
+content	-> 
+
+url	-> http://newsok.com/article/5448134
+title	-> Donald Trump plans <b>visit</b> to Oklahoma State Fair
+content	-> 
+
+url	-> http://www.cnn.com/2015/08/23/politics/jeb-bush-hispanic-republicans/
+title	-> Hispanic <b>Republicans</b> defend Jeb Bush over 'anchor baby' ahead of <b>...</b>
+content	-> 
+
+url	-> http://www.nbclosangeles.com/news/local/Donald-Trump-Speaks-USS-Iowa-Protesters-327737381.html
+title	-> Donald Trump Pledges to 'Rebuild the Military,' Better Deal for Vets
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/elections/presidential/caucus/2015/09/19/mike-huckabee-blasts-structure-cnn-debate/72480762/
+title	-> Huckabee blasts structure of CNN debate
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/elections/presidential/caucus/2015/09/19/pope-francis-expected-leave-mark-presidential-race/72348088/
+title	-> Pope Francis expected to leave mark on presidential race
+content	-> 
+
+url	-> http://theiowarepublican.com/2015/bush-goes-after-donald-trump-thursday-roundup/
+title	-> Bush goes after Donald Trump – Thursday Roundup
+content	-> 
+
+url	-> http://www.rawstory.com/2015/09/kim-davis-for-rosa-parks-award-iowa-republican-ups-the-ante-linking-antigay-clerk-to-civil-rights-hero/
+title	-> 'Kim Davis for Rosa Parks Award': <b>Iowa Republican</b> ups the ante <b>...</b>
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/elections/presidential/candidates/2015/09/20/ted-cruz-excluding-muslims-presidency-unconstituional-caucuses-iowa-politics-ben-carson/72522684/
+title	-> Cruz: Excluding Muslims from presidency is unconstituional
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/elections/presidential/caucus/2015/09/17/donald-trump-speak-urbandale-hs-homecoming/32558001/
+title	-> Donald Trump to speak at Urbandale HS homecoming
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/elections/presidential/caucus/2015/09/17/jindal-adds-6-days-iowa-stops/72377038/
+title	-> Jindal adds 6 days of <b>Iowa</b> stops
+content	-> 
+
+url	-> http://www.dailybreeze.com/government-and-politics/20150908/san-pedro-not-happy-about-donald-trumps-event-at-battleship-iowa
+title	-> San Pedro not happy about Donald Trump's event at Battleship <b>Iowa</b>
+content	-> 
+
+url	-> http://www.nytimes.com/politics/first-draft/2015/08/30/iowa-poll-suggests-dangers-for-hillary-clinton-and-donald-trumps-strengths/
+title	-> <b>Iowa</b> Poll Suggests Dangers for Hillary Clinton and Donald Trump's <b>...</b>
+content	-> 
+
+url	-> http://www.thonline.com/news/iowa-illinois-wisconsin/article_83e82448-5b26-11e5-8535-43d20711dfa5.html
+title	-> Obama looks to leave imprint on 2016 race with <b>Iowa visit</b>
+content	-> 
+
+url	-> http://www.nytimes.com/2015/09/18/us/politics/carly-fiorina-gets-a-lift-from-iowans-after-debate.html
+title	-> Voters See Lack of Fire as Problem for Ben Carson
+content	-> 
+
+url	-> http://www.newrepublic.com/article/122826/whats-stake-second-republican-debate-full-panic-gop
+title	-> What's at Stake in the Second <b>Republican</b> Debate: Full Panic in the <b>...</b>
+content	-> 
+
+url	-> http://www.bloomberg.com/politics/articles/2015-08-22/christie-s-iowa-fair-visit-turns-hog-wild
+title	-> Christie's <b>Iowa</b> Fair <b>Visit</b> Turns Hog Wild
+content	-> 
+
+url	-> http://www.usatoday.com/story/news/politics/elections/2015/09/05/analyis-carson-cruz-fiorina-rise-iowa/71790908/
+title	-> GOP 'lanes' show who's poised to rise – or fall – in <b>Iowa</b>
+content	-> 
+
+url	-> http://cjonline.com/news/2015-09-18/ben-carsons-stop-topeka-fits-republicans-campaign-style
+title	-> Ben Carson's stop in Topeka fits with the <b>Republican's</b> campaign style
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/politics/iowa-poll/caucus/2015/08/31/iowa-poll-many-republicans-still-believe-barack-obama-not-born-us/71455818/
+title	-> <b>Iowa</b> Poll: Many <b>Republicans</b> still believe Barack Obama was not <b>...</b>
+content	-> 
+
+url	-> http://www.nytimes.com/2015/08/26/us/politics/donald-trump-builds-team-to-bolster-ground-game-in-iowa.html
+title	-> Test for Donald Trump: Turning Crowds Into Real Voters
+content	-> 
+
+url	-> http://news.yahoo.com/ap-sources-perry-exit-2016-republican-presidential-race-211809518--election.html
+title	-> Rick Perry first to exit 2016 <b>Republican</b> presidential race
+content	-> 
+
+url	-> http://www.nytimes.com/2015/09/14/us/scott-walker-cancels-events-to-focus-on-iowa-and-south-carolina.html
+title	-> Scott Walker Cancels Stops to Focus on <b>Iowa</b> and South Carolina
+content	-> 
+
+url	-> http://www.mlive.com/lansing-news/index.ssf/2015/09/can_bush_burn_bright_is_fiorin.html
+title	-> Will Bush burn bright? Is Fiorina a real force? 11 things to watch for <b>...</b>
+content	-> 
+
+url	-> http://www.chicagotribune.com/news/local/breaking/ct-wisconsins-walker-looks-to-iowa-to-regain-momentum-20150831-story.html
+title	-> Wisconsin's Walker looks to <b>Iowa</b> to regain momentum
+content	-> 
+
+url	-> http://abcnews.go.com/Politics/poll-numbers-show-donald-trump-real/story%3Fid%3D33776703
+title	-> 8 Poll Numbers That Show Donald Trump Is For Real
+content	-> 
+
+url	-> http://www.politico.com/story/2015/06/trump-bump-terrifies-gop-119449
+title	-> Trump bump terrifies GOP
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/elections/presidential/caucus/2015/09/17/debate-spin-room-aides-hopefuls-steer-their-stories/72367636/
+title	-> In debate spin room: Aides, hopefuls steer their stories
+content	-> 
+
+url	-> http://www.cnn.com/2015/09/10/politics/donald-trump-ben-carson-cnn-poll/
+title	-> Poll: Donald Trump surges to 32% support
+content	-> 
+
+url	-> http://www.cleveland.com/open/index.ssf/2015/09/john_kasich_lands_cory_crowley_1.html
+title	-> John Kasich lands Cory Crowley, past aide to Sen. Chuck Grassley <b>...</b>
+content	-> 
+
+url	-> http://www.nytimes.com/2015/09/05/us/politics/iowans-question-republican-talk-on-illegal-immigration.html
+title	-> Iowans Question GOP Talk on Illegal Immigration
+content	-> 
+
+url	-> http://www.slate.com/articles/life/education/2015/09/university_of_iowa_names_new_president_no_experience_no_ideas_flubbed_his.html
+title	-> The University of <b>Iowa's</b> New President Has No Experience, No <b>...</b>
+content	-> 
+
+url	-> http://lasvegassun.com/news/2015/sep/18/omalley-trying-to-win-votes-in-iowa-the-old-fashio/
+title	-> O'Malley trying to win votes in <b>Iowa</b> the old-fashioned way
+content	-> 
+
+url	-> http://www.npr.org/sections/itsallpolitics/2015/09/16/440866601/big-money-and-back-stabbing-have-become-part-of-the-iowa-game
+title	-> Big Money And Backstabbing Have Become Part Of The <b>Iowa</b> Game
+content	-> 
+
+url	-> http://www.washingtontimes.com/news/2015/sep/14/obama-blasts-republicans-on-immigration-education/%3Fpage%3Dall
+title	-> Obama blasts <b>Republicans</b> on immigration, education
+content	-> 
+
+url	-> http://www.theweedblog.com/republican-presidential-candidates-engage-in-a-serious-discussion-about-marijuana-policy/
+title	-> <b>Republican</b> Presidential Candidates Engage In A Serious <b>...</b>
+content	-> 
+
+url	-> http://www.usnews.com/news/business/articles/2015/08/26/walker-talks-tough-on-china-while-campaigning-in-iowa
+title	-> Walker talks tough on China while campaigning in <b>Iowa</b>
+content	-> 
+
+url	-> http://www.nytimes.com/2015/08/31/us/politics/iowans-fear-allegiance-swap-erodes-clean-political-image.html
+title	-> Defection of Perry Aide to Trump Camp Has Iowans Fearing for Image
+content	-> 
+
+url	-> http://www.theguardian.com/us-news/2015/aug/26/donald-trump-in-iowa-obama-esque-campaign-but-the-same-mouthy-mogul
+title	-> Donald Trump ejects Latino news anchor as <b>Iowa</b> campaign gains <b>...</b>
+content	-> 
+
+url	-> http://www.mcclatchydc.com/news/politics-government/election/article31775838.html
+title	-> For Texas 2016 hopefuls Cruz and Perry, <b>Iowa</b> looms large
+content	-> 
+
+url	-> http://amestrib.com/news/santorum-take-part-isu-caucus-series
+title	-> Santorum to take part in ISU caucus series
+content	-> 
+
+url	-> http://miami.cbslocal.com/2015/09/11/republican-jeb-bush-schedules-rally-in-las-vegas-next-week/
+title	-> <b>Republican</b> Jeb Bush Schedules Rally In Las Vegas Next Week
+content	-> 
+
+url	-> http://www.nytimes.com/2015/09/17/us/politics/donald-trump-firework-of-campaign-trail-shows-a-more-measured-side.html
+title	-> Donald Trump Adds Something Unexpected to His Campaign <b>...</b>
+content	-> 
+
+url	-> http://www.jsonline.com/news/statepolitics/scott-walker-returns-to-iowa-where-his-polling-numbers-have-plummeted-b99575013z1-326695511.html
+title	-> Scott Walker returns to <b>Iowa</b>, where his polling numbers have <b>...</b>
+content	-> 
+
+url	-> http://amestrib.com/news/ames-and-story-county/graham-visit-ames-saturday
+title	-> Graham to <b>visit</b> Ames Saturday
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/elections/presidential/caucus/2015/09/16/ted-cruz-stop-machine-shed-sunday/32503063/
+title	-> Ted Cruz to stop by Machine Shed on Sunday
+content	-> 
+
+url	-> http://www.huffingtonpost.com/entry/trump-criticizes-ben-carson-says-he-doesnt-have-energy_55f4eef5e4b077ca094f5d95
+title	-> Trump Criticizes Ben Carson, Says He Doesn't Have 'Energy'
+content	-> 
+
+url	-> http://patch.com/california/santamonica/despite-protest-donald-trump-speak-aboard-uss-iowa-today
+title	-> Despite Protest, Donald Trump to Speak aboard USS <b>Iowa</b> Today
+content	-> 
+
+url	-> http://www.nytimes.com/2015/09/13/us/politics/gloomy-republican-campaigns-leave-behind-reagan-cheer.html
+title	-> Gloomy <b>Republican</b> Campaigns Leave Behind Reagan Cheer
+content	-> 
+
+url	-> http://www.nytimes.com/2015/08/23/us/politics/why-donald-trump-wont-fold-polls-and-people-speak.html
+title	-> Why Donald Trump Won't Fold: Polls and People Speak
+content	-> 
+
+url	-> http://onpolitics.usatoday.com/2015/09/15/usa-today-republican-power-rankings-week-3-trump-carson-fiorina/
+title	-> USA TODAY GOP Power Rankings, Week 3: Walker's slow slide <b>...</b>
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/politics/iowa-poll/2015/08/29/iowa-poll-democrats-august/71387664/
+title	-> <b>Iowa</b> Poll: Clinton leads, but Sanders draws near
+content	-> 
+
+url	-> http://www.politico.com/tipsheets/huddle/2015/09/politico-huddle-september-14-mitch-mcconnell-senate-210181
+title	-> POLITICO Huddle, Presented by Visa: McConnell says <b>Republicans</b> <b>...</b>
+content	-> 
+
+url	-> http://www.tri-cityherald.com/news/politics-government/article35169150.html
+title	-> GOP candidates to attend pope events despite differences
+content	-> 
+
+url	-> http://www.wkow.com/story/30015807/2015/09/12/walker-concentrates-on-iowa-after-falling-from-top-spot-to-10th
+title	-> Walker concentrates on <b>Iowa</b> after falling from top spot to 10th
+content	-> 
+
+url	-> http://whqr.org/post/popes-us-visit-spurs-catholic-support-criminal-justice-reform
+title	-> Pope's U.S. <b>Visit</b> Spurs Catholic Support For Criminal Justice Reform
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/elections/presidential/caucus/2015/09/11/chris-christie-hold-town-hall-rastetters-office/72091964/
+title	-> Chris Christie to hold town hall at Rastetter's office
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/elections/presidential/caucus/2015/09/11/rand-paul-connects-isu-students/72087628/
+title	-> Rand Paul connects with ISU students
+content	-> 
+
+url	-> http://globegazette.com/news/iowa/presidential-hopefuls-to-tailgate-at-iowa-iowa-state-game/article_d1b6b20e-148a-512f-8433-4fd232ef4969.html
+title	-> Presidential hopefuls to tailgate at <b>Iowa</b>-<b>Iowa</b> State game
+content	-> 
+
+url	-> http://news.yahoo.com/apnewsbreak-vet-group-hosting-trump-lost-nonprofit-status-205834853--election.html
+title	-> APNewsBreak: Vet group hosting Trump lost nonprofit status
+content	-> 
+
+url	-> http://www.tallahassee.com/story/news/politics/2015/09/15/marco-rubio-just-dealt-florida-state-incredible-burn/72298830/
+title	-> Thrasher fires back at Rubio, readers respond
+content	-> 
+
+url	-> http://iowapublicradio.org/post/california-warning-republicans-anti-immigration-rhetoric
+title	-> From California, A Warning To <b>Republicans</b> On Anti-Immigration <b>...</b>
+content	-> 
+
+url	-> http://theiowarepublican.com/2015/jebs-quiet-push-in-iowa/
+title	-> Jeb's Quiet Push in <b>Iowa</b>
+content	-> 
+
+url	-> http://thehill.com/homenews/administration/252973-obama-to-head-to-iowa
+title	-> Obama to head to <b>Iowa</b>
+content	-> 
+
+url	-> http://iowapublicradio.org/post/benjamin-netanyahu-visit-white-house-november
+title	-> Benjamin Netanyahu To <b>Visit</b> The White House In November
+content	-> 
+
+url	-> http://www.foxnews.com/politics/2015/08/26/santorum-set-to-visit-all-iowa-counties/
+title	-> Santorum set to <b>visit</b> all 99 <b>Iowa</b> counties
+content	-> 
+
+url	-> http://theiowarepublican.com/2015/rubios-iowa-campaign-has-some-work-to-do/
+title	-> Rubio's <b>Iowa</b> Campaign Has Some Work to Do
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/elections/presidential/caucus/2015/08/07/fiorina-visit-iowa-next-week/31289779/
+title	-> Fiorina to <b>visit Iowa</b> next week
+content	-> 
+
+url	-> http://www.timesrepublican.com/page/content.detail/id/592387/Cheryl-Anne-Brown--68.html%3Fnav%3D5006
+title	-> Cheryl Anne Brown, 68
+content	-> 
+
+url	-> http://www.politico.com/story/2015/09/bobby-jindal-donald-trump-narcissist-2016-213490
+title	-> Jindal calls Trump practically every name in the book
+content	-> 
+
+url	-> http://www.bloomberg.com/politics/articles/2015-08-28/pro-bush-pac-targets-iowa-football-fans-in-first-tv-ad-buy
+title	-> Pro-Bush PAC Targets <b>Iowa</b> Football Fans in First TV Ad Buy
+content	-> 
+
+url	-> http://wcfcourier.com/news/local/govt-and-politics/blum-stresses-principled-bipartisanship-at-rotary-visit/article_1fdb3aa2-7d3a-58b2-9543-77db5f6615c6.html
+title	-> Blum stresses principled bipartisanship at Rotary <b>visit</b>
+content	-> 
+
+url	-> http://qctimes.com/news/local/government-and-politics/wisconsin-gov-scott-walker-talks-with-potential-voters-in-iowa/article_a4affe3f-a63d-5410-a4e7-6a7aaaa388ec.html
+title	-> Wisconsin Gov. Scott Walker talks with potential voters in <b>Iowa</b>
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/elections/presidential/caucus/2015/09/08/ben-carson-attend-fundraiser-iowa-caucuses/71885010/
+title	-> Ben Carson to attend fundraiser for WDM legislator
+content	-> 
+
+url	-> http://www.nytimes.com/2015/08/26/us/politics/huma-abedin-clinton-emails.html
+title	-> Huma Abedin, a Clinton Aide, Is Back in Spotlight as <b>Republicans</b> <b>...</b>
+content	-> 
+
+url	-> http://www.mcclatchydc.com/news/politics-government/election/article32989482.html
+title	-> <b>Iowa</b>: Perry cuts back but a pro-Perry super PAC steps in
+content	-> 
+
+url	-> http://www.timesrepublican.com/page/content.detail/id/592295/Wayne-E--Judge-Sr---80.html%3Fnav%3D5006
+title	-> Wayne E. Judge Sr., 80
+content	-> 
+
+url	-> http://www.nbcnews.com/politics/2016-election/carly-fiorina-makes-her-pitch-iowa-n418956
+title	-> Carly Fiorina Makes Her Pitch in <b>Iowa</b>
+content	-> 
+
+url	-> http://www.wsj.com/articles/republican-presidential-contenders-flock-to-iowa-state-fair-1439508432
+title	-> <b>Republican</b> Presidential Contenders Flock to <b>Iowa</b> State Fair
+content	-> 
+
+url	-> http://www.nevadaappeal.com/news/lahontanvalley/17873381-113/rubio-to-make-campaign-stop-in-fallon
+title	-> Rubio to make campaign stop in Fallon
+content	-> 
+
+url	-> http://newsok.com/article/feed/889186
+title	-> Share “In <b>Iowa</b>, Obama looks to leave his imprint...”
+content	-> 
+
+url	-> http://www.myajc.com/news/news/national-govt-politics/fiorina-adopts-a-keep-it-simple-approach-to-nation/nnQnK/
+title	-> Fiorina adopts a keep-it-simple approach to nation's issues
+content	-> 
+
+url	-> http://www.desmoinesregister.com/story/news/elections/presidential/caucus/2015/09/02/jeb-bush-iowa-scott-county/71609096/
+title	-> Jeb Bush returns to <b>Iowa</b> for Scott County event Oct. 6
+content	-> 
+
+url	-> https://www.toledoblade.com/David-Shribman/2015/09/13/On-the-campaign-trail-in-Iowa-one-living-room-at-a-time.html
+title	-> On the campaign trail in <b>Iowa</b>, one living room at a time
+content	-> 
+
+url	-> http://wjbf.com/2015/08/27/republican-presidential-candidate-rick-perry-to-visit-south-carolina/
+title	-> <b>Republican</b> Presidential Candidate Rick Perry to <b>Visit</b> South Carolina
+content	-> 
+
+url	-> http://www.chron.com/news/texas/article/Perry-s-Iowa-chairman-has-left-lagging-campaign-6462508.php
+title	-> Perry resumes paying some staffers, but loses <b>Iowa</b> chairman
+content	-> 
+
