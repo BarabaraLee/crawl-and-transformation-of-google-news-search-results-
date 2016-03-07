@@ -1,4 +1,6 @@
 Task: In each title of the google news search results for 'IOWA and REPUBLICAN and VISIT', replace the candidate's name with the most popular girl's name in the year which is the same as the candidate's birth year. To finish the task, two steps must be performed sequentially.
+Author: Linjun Li
+Company: Virginia Tech
 
 STEP 1
 ——————————————————————————————————————————————————————————————————————————————————————————————————————
