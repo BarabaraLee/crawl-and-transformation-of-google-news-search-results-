@@ -16,7 +16,7 @@ Notes:
 2) The searching result with 'IOWA REPUBLICAN VISIT' as input is the same as the searching result with 'IOWA and REPUBLICAN and VISIT' using the google news webpage in web browser.
 3) The summary of result includes 'url', 'title' and 'content' for each piece of news.
 4) The excecutable user_agents should be included in the same folder where the script is saved.
-5) We need to use '>title.txt' to save the summary result.
+5) We need to use 'title.txt' to save the summary result.
 
 To use the script, run:
 python gsearch.py [Key Words] > [file name of summary]
